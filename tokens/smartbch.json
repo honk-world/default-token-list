@@ -64,17 +64,17 @@
     "logoURI": "https://raw.githubusercontent.com/honkswapdex/assets/master/blockchains/smartbch/assets/0x98Dd7eC28FB43b3C4c770AE532417015fa939Dd3/logo.png"
   },
   {
-    "name": "HONK",
+    "name": "MIST",
     "address": "0x5fA664f69c2A4A3ec94FaC3cBf7049BD9CA73129",
-    "symbol": "HONK",
+    "symbol": "MIST",
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/honkswapdex/assets/master/blockchains/smartbch/assets/0x5fA664f69c2A4A3ec94FaC3cBf7049BD9CA73129/logo.png"
   },
   {
-    "name": "xHONK",
+    "name": "xMIST",
     "address": "0xC41C680c60309d4646379eD62020c534eB67b6f4",
-    "symbol": "XHONK",
+    "symbol": "XMIST",
     "decimals": 18,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/honkswapdex/assets/master/blockchains/smartbch/assets/0xC41C680c60309d4646379eD62020c534eB67b6f4/logo.png"

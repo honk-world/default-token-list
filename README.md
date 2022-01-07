@@ -1,12 +1,12 @@
-# @mistswapdex/default-token-list
+# @honkswapdex/default-token-list
 
-This NPM module and GitHub repo contains the default token list used in the MISTswap interface.
+This NPM module and GitHub repo contains the default token list used in the HONKswap interface.
 
 ## Adding a token
 
 To request that we add a token to the list:
   + Open PR adding your token to the list (git clone, yarn install)
-  + [Add PR](https://github.com/mistswapdex/assets) with corresponding logo in under the correct blockchain folder
+  + [Add PR](https://github.com/honk-world/assets) with corresponding logo in under the correct blockchain folder
 
 ### Disclaimer
 

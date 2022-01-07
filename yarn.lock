@@ -274,10 +274,10 @@
     "@ethersproject/constants" "^5.3.0"
     "@ethersproject/logger" "^5.3.0"
 
-"@mistswapdex/sdk@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@mistswapdex/sdk/-/sdk-0.0.2.tgz#de18c4308a99e5b310e6f40478a0c0a2a62b48f8"
-  integrity sha512-9wzUk+yFxV7p/B65XWU3aRs/111fswLucds8KzGmXa80vYZMjH9Q3qcovLAMF44fq3tGw1YVTaOJu4/rxUpd+w==
+"@honkswapdex/sdk@^0.0.2":
+  version "0.0.14"
+  resolved "https://registry.yarnpkg.com/@honkswapdex/sdk/-/sdk-0.0.14.tgz#7a1518ceda3bc64ec9e88c0d686aba9df54b6c93"
+  integrity sha512-EuAJt0ooUl4EaBc7XZxX2c5HuSms/4u7DgpLrhsXFfuTP80kWpiFTuANCD7Cw8Qo/3u2EkOWB2Uh2yP6FfIKPA==
   dependencies:
     big.js "^6.1.0"
     decimal.js-light "^2.5.0"

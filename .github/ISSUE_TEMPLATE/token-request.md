@@ -19,7 +19,7 @@ Token Decimals (from contract):
 Token Symbol (from contract):
 HONKswap V2 Pair Address of Token:
 
-Link to honkswapdex/assets PR:
+Link to honk-world/assets PR:
 Link to the official homepage of token:
 Link to CoinMarketCap or CoinGecko page of token:
 Link to official Twitter account:

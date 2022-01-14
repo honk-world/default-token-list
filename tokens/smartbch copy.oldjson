@@ -1,0 +1,403 @@
+[
+  {
+    "name": "flexUSD",
+    "address": "0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72",
+    "symbol": "flexUSD",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x7b2B3C5308ab5b2a1d9a94d20D35CCDf61e05b72/logo.png"
+  }
+  ,
+  // {
+  //   "name": "ORB",
+  //   "address": "0xFf3ed63bf8bC9303eA0A7E1215bA2f82D569799e",
+  //   "symbol": "ORB",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0xFf3ed63bf8bC9303eA0A7E1215bA2f82D569799e/logo.png"
+  // },
+  // {
+  //   "name": "SPICE",
+  //   "address": "0xE11829A7D5d8806BB36E118461a1012588faFD89",
+  //   "symbol": "SPICE",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0xE11829A7D5d8806BB36E118461a1012588faFD89/logo.png"
+  // },
+  // {
+  //   "name": "Knuth",
+  //   "address": "0xc70c7718C7f1CCd906534C2c4a76914173EC2c44",
+  //   "symbol": "KTH",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0xc70c7718C7f1CCd906534C2c4a76914173EC2c44/logo.png"
+  // },
+  // {
+  //   "name": "Green Ben",
+  //   "address": "0x77CB87b57F54667978Eb1B199b28a0db8C8E1c0B",
+  //   "symbol": "EBEN",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x77CB87b57F54667978Eb1B199b28a0db8C8E1c0B/logo.png"
+  // },
+  // {
+  //   "name": "CashCats",
+  //   "address": "0x265bD28d79400D55a1665707Fa14A72978FA6043",
+  //   "symbol": "$CATS",
+  //   "decimals": 2,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x265bD28d79400D55a1665707Fa14A72978FA6043/logo.png"
+  // },
+  {
+    "name": "HONK",
+    "address": "0xF2d4D9c65C2d1080ac9e1895F6a32045741831Cd",
+    "symbol": "HONK",
+    "decimals": 2,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0xF2d4D9c65C2d1080ac9e1895F6a32045741831Cd/logo.png"
+  },
+  // {
+  //   "name": "FLEX Coin",
+  //   "address": "0x98Dd7eC28FB43b3C4c770AE532417015fa939Dd3",
+  //   "symbol": "FLEX",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x98Dd7eC28FB43b3C4c770AE532417015fa939Dd3/logo.png"
+  // },
+  // {
+  //   "name": "MIST",
+  //   "address": "0x5fA664f69c2A4A3ec94FaC3cBf7049BD9CA73129",
+  //   "symbol": "MIST",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x5fA664f69c2A4A3ec94FaC3cBf7049BD9CA73129/logo.png"
+  // },
+  // {
+  //   "name": "xMIST",
+  //   "address": "0xC41C680c60309d4646379eD62020c534eB67b6f4",
+  //   "symbol": "XMIST",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0xC41C680c60309d4646379eD62020c534eB67b6f4/logo.png"
+  // },
+  // {
+  //   "name": "Potato Coin",
+  //   "address": "0xB5b1939ef0a3743d0Ae9282DbA62312b614A5Ac0",
+  //   "symbol": "POTA",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0xB5b1939ef0a3743d0Ae9282DbA62312b614A5Ac0/logo.png"
+  // },
+  // {
+  //   "name": "LAW",
+  //   "address": "0x0b00366fBF7037E9d75E4A569ab27dAB84759302",
+  //   "symbol": "LAW",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x0b00366fBF7037E9d75E4A569ab27dAB84759302/logo.png"
+  // },
+  // {
+  //   "name": "KONRA",
+  //   "address": "0x4F1480ba79F7477230ec3b2eCc868E8221925072",
+  //   "symbol": "KONRA",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x4F1480ba79F7477230ec3b2eCc868E8221925072/logo.png"
+  // },
+  // {
+  //   "name": "Alpha",
+  //   "address": "0x5a3bB59F34D60E9EB5643Fb80C8D712275F6a96A",
+  //   "symbol": "PHA",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x5a3bb59f34d60e9eb5643fb80c8d712275f6a96a/logo.png"
+  // },
+  // {
+  //   "name": "HODL",
+  //   "address": "0xB24D7763516bca9656779d760be9a32490f46E27",
+  //   "symbol": "HODL",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0xB24D7763516bca9656779d760be9a32490f46E27/logo.png"
+  // },
+  // {
+  //   "name": "Zombie",
+  //   "address": "0x80453ACDfE0073D6743B27D72e06F48777EeAd80",
+  //   "symbol": "ZOMBIE",
+  //   "decimals": 0,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x80453acdfe0073d6743b27d72e06f48777eead80/logo.png"
+  // },
+  // {
+  //   "name": "Smart BUSD",
+  //   "address": "0x9288df32951386A8254aEaF80a66B78cCaf75b82",
+  //   "symbol": "sBUSD",
+  //   "decimals": 2,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x9288df32951386A8254aEaF80a66B78cCaf75b82/logo.png"
+  // },
+  // {
+  //   "name": "CashKitten",
+  //   "address": "0x7eBeAdb95724a006aFaF2F1f051B13F4eBEBf711",
+  //   "symbol": "$KITTEN",
+  //   "decimals": 2,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x7eBeAdb95724a006aFaF2F1f051B13F4eBEBf711/logo.png"
+  // },
+  // {
+  //   "name": "ShibaCash",
+  //   "address": "0x2f309b9D47b1Ce7f0ec30a26baB2dEaB8c4ea5E9",
+  //   "symbol": "Shiba",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x2f309b9D47b1Ce7f0ec30a26baB2dEaB8c4ea5E9/logo.png"
+  // },
+  // {
+  //   "name": "AxieBCH",
+  //   "address": "0x3d13DaFcCA3a188DB340c81414239Bc2be312Ec9",
+  //   "symbol": "AXIEBCH",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x3d13DaFcCA3a188DB340c81414239Bc2be312Ec9/logo.png"
+  // },
+  // {
+  //   "name": "Bitcoin Cash Argentina",
+  //   "address": "0x675E1d6FcE8C7cC091aED06A68D079489450338a",
+  //   "symbol": "ARG",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x675E1d6FcE8C7cC091aED06A68D079489450338a/logo.png"
+  // },
+  // {
+  //   "name": "MAZE",
+  //   "address": "0x481De06DCA0198844faA36FCa04Db364e5c2f86C",
+  //   "symbol": "MAZE",
+  //   "decimals": 6,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x481De06DCA0198844faA36FCa04Db364e5c2f86C/logo.png"
+  // },
+  // {
+  //   "name": "UatX Token",
+  //   "address": "0xFfA2394B61D3dE16538a2Bbf3491297Cc5a7C79a",
+  //   "symbol": "UAT",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0xFfA2394B61D3dE16538a2Bbf3491297Cc5a7C79a/logo.png"
+  // },
+  // {
+  //   "name": "Ham Token",
+  //   "address": "0x252fd94f3Fb53D3D62F4FEc708501ACd59A57e52",
+  //   "symbol": "HAM",
+  //   "decimals": 8,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x252fd94f3Fb53D3D62F4FEc708501ACd59A57e52/logo.png"
+  // },
+  // {
+  //   "name": "MILK",
+  //   "address": "0xc8E09AEdB3c949a875e1FD571dC4b3E48FB221f0",
+  //   "symbol": "MILK",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0xc8E09AEdB3c949a875e1FD571dC4b3E48FB221f0/logo.png"
+  // },
+  // {
+  //   "name": "Cheese",
+  //   "address": "0x09A4CDb1569563fF277aC457cED35fe2551aEC1D",
+  //   "symbol": "CHEESE",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x09A4CDb1569563fF277aC457cED35fe2551aEC1D/logo.png"
+  // },
+  // {
+  //   "name": "BCHPad",
+  //   "address": "0x9192940099fDB2338B928DE2cad9Cd1525fEa881",
+  //   "symbol": "BPAD",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x9192940099fDB2338B928DE2cad9Cd1525fEa881/logo.png"
+  // },
+  // {
+  //   "name": "NomadCoin",
+  //   "address": "0xEE1bA4e4C266C7cc071f5de5e6dc90965E608087",
+  //   "symbol": "NOMAD",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0xEE1bA4e4C266C7cc071f5de5e6dc90965E608087/logo.png"
+  // },
+  // {
+  //   "name": "Joystick",
+  //   "address": "0x6732E55Ac3ECa734F54C26Bd8DF4eED52Fb79a6E",
+  //   "symbol": "JOYSTICK",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x6732E55Ac3ECa734F54C26Bd8DF4eED52Fb79a6E/logo.png"
+  // },
+  // {
+  //   "name": "Xolos",
+  //   "address": "0x49F9ECF126B6dDF51C731614755508A4674bA7eD",
+  //   "symbol": "RMZ",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x49F9ECF126B6dDF51C731614755508A4674bA7eD/logo.png"
+  // },
+  // {
+  //   "name": "Celery",
+  //   "address": "0x7642Df81b5BEAeEb331cc5A104bd13Ba68c34B91",
+  //   "symbol": "CLY",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x7642Df81b5BEAeEb331cc5A104bd13Ba68c34B91/logo.png"
+  // },
+  // {
+  //   "name": "DOGEBCH",
+  //   "address": "0x741746C2Cf4117730d7f087e8492dF595b4fd283",
+  //   "symbol": "DOGE",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x741746C2Cf4117730d7f087e8492dF595b4fd283/logo.png"
+  // },
+  // {
+  //   "name": "SmartBCH Token Observer",
+  //   "address": "0xAFACB0004A91267b58e720E13DF570Dc6863c854",
+  //   "symbol": "STO",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0xAFACB0004A91267b58e720E13DF570Dc6863c854/logo.png"
+  // },
+  // {
+  //   "name": "SmartIndex",
+  //   "address": "0xF05bD3d7709980f60CD5206BddFFA8553176dd29",
+  //   "symbol": "SIDX",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0xF05bD3d7709980f60CD5206BddFFA8553176dd29/logo.png"
+  // },
+  // {
+  //   "name": "Points",
+  //   "address": "0x71df12B5A718e0110991BB641cb379077d9e8Ef7",
+  //   "symbol": "PTS",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x71df12B5A718e0110991BB641cb379077d9e8Ef7/logo.png"
+  // },
+  // {
+  //   "name": "TANGO",
+  //   "address": "0x73BE9c8Edf5e951c9a0762EA2b1DE8c8F38B5e91",
+  //   "symbol": "TANGO",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x73BE9c8Edf5e951c9a0762EA2b1DE8c8F38B5e91/logo.png"
+  // },
+  // {
+  //   "name": "xTANGO",
+  //   "address": "0x98Ff640323C059d8C4CB846976973FEEB0E068aA",
+  //   "symbol": "XTANGO",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x98Ff640323C059d8C4CB846976973FEEB0E068aA/logo.png"
+  // },
+  // {
+  //   "name": "Incinerate",
+  //   "address": "0x225FCa2A940cd5B18DFb168cD9B7f921C63d7B6E",
+  //   "symbol": "FIRE",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x225FCa2A940cd5B18DFb168cD9B7f921C63d7B6E/logo.png"
+  // },
+  // {
+  //   "name": "FATCAT",
+  //   "address": "0xF4b10fcC5C22C9E6746a8f4DAc07A59e79ef947A",
+  //   "symbol": "$FATCAT",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0xF4b10fcC5C22C9E6746a8f4DAc07A59e79ef947A/logo.png"
+  // },
+  // {
+  //   "name": "Decentralized Autonomous Organization",
+  //   "address": "0xca0235058985fcC1839E9e37c10900a73C126708",
+  //   "symbol": "DAO",
+  //   "decimals": 7,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0xca0235058985fcC1839E9e37c10900a73C126708/logo.png"
+  // },
+  // {
+  //   "name": "Bismuth Win Bi",
+  //   "address": "0x2E1da8Eb00CD1FF9B201f51e3705D87e06313881",
+  //   "symbol": "BWB",
+  //   "decimals": 8,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x2E1da8Eb00CD1FF9B201f51e3705D87e06313881/logo.png"
+  // },
+  // {
+  //   "name": "rBCH Token",
+  //   "address": "0xb4602588E5F1F9653B6F234206c91552E457fAcB",
+  //   "symbol": "rBCH",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0xb4602588E5F1F9653B6F234206c91552E457fAcB/logo.png"
+  // },
+  // {
+  //   "name": "1BCH Token",
+  //   "address": "0x77d4b6e44a53bBdA9a1D156B32Bb53A2D099e53D",
+  //   "symbol": "1BCH",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x77d4b6e44a53bBdA9a1D156B32Bb53A2D099e53D/logo.png"
+  // },
+  // {
+  //   "name": "Viegage Token",
+  //   "address": "0xd8DE06b017857A821BA873D4F174B9580454f6c4",
+  //   "symbol": "VTO",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0xd8DE06b017857A821BA873D4F174B9580454f6c4/logo.png"
+  // },
+  // {
+  //   "name": "Volcano",
+  //   "address": "0xc07545D17e716CF7FF24ed0eb16A69157A33aaCd",
+  //   "symbol": "BURN",
+  //   "decimals": 9,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0xc07545D17e716CF7FF24ed0eb16A69157A33aaCd/logo.png"
+  // },
+  // {
+  //   "name": "Wenlambo",
+  //   "address": "0x0E36C351ff40183435C9Bd1D17bfb1F3548f1963",
+  //   "symbol": "LAMBO",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x0E36C351ff40183435C9Bd1D17bfb1F3548f1963/logo.png"
+  // },
+  // {
+  //   "name": "Game",
+  //   "address": "0xd2597a0bde31Ddec2440E256d8AA35eb63F1A9e3",
+  //   "symbol": "GAME",
+  //   "decimals": 18,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0xd2597a0bde31Ddec2440E256d8AA35eb63F1A9e3/logo.png"
+  // },
+  // {
+  //   "name": "Centralized Autocratic Organization",
+  //   "address": "0x8358758D3952A0146560F3584d3b219ed631E1ea",
+  //   "symbol": "CAO",
+  //   "decimals": 9,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x8358758D3952A0146560F3584d3b219ed631E1ea/logo.png"
+  // },
+  // {
+  //   "name": "WOJAK",
+  //   "address": "0x8d7Ea0ec6CaB515463121A3c70Df541f2F534909",
+  //   "symbol": "WOJAK",
+  //   "decimals": 9,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x8d7Ea0ec6CaB515463121A3c70Df541f2F534909/logo.png"
+  // },
+  // {
+  //   "name": "MoonMoonMoonMoon",
+  //   "address": "0x2b591190FF951F60CB9424664155e57A402c1AdE",
+  //   "symbol": "MoonMoonMoonMoon",
+  //   "decimals": 3,
+  //   "chainId": 10000,
+  //   "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x2b591190FF951F60CB9424664155e57A402c1AdE/logo.png"
+  // }
+]

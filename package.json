@@ -1,7 +1,7 @@
 {
   "name": "@honkswapdex/default-token-list",
-  "version": "0.0.25",
-  "description": "◦ The HONKswap default token list",
+  "version": "0.0.27",
+  "description": "The HONKswap default token list",
   "main": "build/honkswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
@@ -24,7 +24,7 @@
     "token",
     "list"
   ],
-  "author": "Matthew Lilley <hello@matthewlilley.com>",
+  "author": "",
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/honk-world/default-token-list/issues"

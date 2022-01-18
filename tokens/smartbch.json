@@ -14,5 +14,45 @@
     "decimals": 2,
     "chainId": 10000,
     "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0xF2d4D9c65C2d1080ac9e1895F6a32045741831Cd/logo.png"
+  },
+  {
+    "name": "FLEX Coin",
+    "address": "0x98Dd7eC28FB43b3C4c770AE532417015fa939Dd3",
+    "symbol": "FLEX",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x98Dd7eC28FB43b3C4c770AE532417015fa939Dd3/logo.png"
+  },
+  {
+    "name": "MIST",
+    "address": "0x5fA664f69c2A4A3ec94FaC3cBf7049BD9CA73129",
+    "symbol": "MIST",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x5fA664f69c2A4A3ec94FaC3cBf7049BD9CA73129/logo.png"
+  },
+  {
+    "name": "LAW",
+    "address": "0x0b00366fBF7037E9d75E4A569ab27dAB84759302",
+    "symbol": "LAW",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x0b00366fBF7037E9d75E4A569ab27dAB84759302/logo.png"
+  },
+  {
+    "name": "CashCats",
+    "address": "0x265bD28d79400D55a1665707Fa14A72978FA6043",
+    "symbol": "$CATS",
+    "decimals": 2,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x265bD28d79400D55a1665707Fa14A72978FA6043/logo.png"
+  },
+  {
+    "name": "Green Ben",
+    "address": "0x77CB87b57F54667978Eb1B199b28a0db8C8E1c0B",
+    "symbol": "EBEN",
+    "decimals": 18,
+    "chainId": 10000,
+    "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x77CB87b57F54667978Eb1B199b28a0db8C8E1c0B/logo.png"
   }
 ]

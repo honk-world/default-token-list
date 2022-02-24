@@ -14,5 +14,21 @@
     "decimals": 18,
     "chainId": 10001,
     "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x4cA751A20FE9b130c0fa598DA21348B20108f51a/logo.png"
+  },
+  {
+    "name": "HONK",
+    "address": "0xe9C106f8eC9591c730B32b42d842C34c925a7273",
+    "symbol": "HONK",
+    "decimals": 2,
+    "chainId": 10001,
+    "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0xF2d4D9c65C2d1080ac9e1895F6a32045741831Cd/logo.png"
+  },
+  {
+    "name": "MIST",
+    "address": "0x3d2cd929D1fC1dA68D2557AB85336C2740b1Ae81",
+    "symbol": "MIST",
+    "decimals": 18,
+    "chainId": 10001,
+    "logoURI": "https://raw.githubusercontent.com/honk-world/assets/master/blockchains/smartbch/assets/0x5fA664f69c2A4A3ec94FaC3cBf7049BD9CA73129/logo.png"
   }
 ]

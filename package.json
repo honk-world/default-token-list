@@ -1,6 +1,6 @@
 {
   "name": "@honkswapdex/default-token-list",
-  "version": "0.0.29",
+  "version": "0.0.30",
   "description": "The HONKswap default token list",
   "main": "build/honkswap-default.tokenlist.json",
   "scripts": {
